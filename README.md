@@ -12,8 +12,9 @@
 - 官网首页：https://xiayoumu.com
 - 官网博客：https://xiayoumu.com/blog
 
-## 我的 SaaS 产品
+## 我的项目
 - 夏有木进销存：https://xiayoumu.com/products/erp
+- 夏有木 markdown 排版工具：https://md.xiayoumu.com/
 
 ## 个人账号
 - 个人博客：https://flyeric.top
